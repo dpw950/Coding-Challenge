@@ -1,0 +1,13 @@
+{
+  "name": "letter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "test":"jest"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
